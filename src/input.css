@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --spacing-mContainer: 1244px; 
+  --color-primary: #8630E8; 
+  --color-secondary: #17212E;
+  --font-noto: "Noto Sans", sans-serif; 
+  --font-inter: "Inter Tight", sans-serif; 
+}
